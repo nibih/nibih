@@ -12,3 +12,4 @@ Skills: REACT / SVELTE / TAILWINDCSS
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nibih&show_icons=true&count_private=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nibih)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
