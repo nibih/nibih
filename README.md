@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Nibih
-#### Data Scientist & Front End developer
+# Hi there 👋, I'm Nibih
+## Data Scientist & Front End developer
 I'm a developer with a strong interest in Intelligent Systems and Front-end web development. I like keeping up with new and exciting technologies to further enhance my capabilities. I have a focus on application performance and accessibility.
 
 Skills: REACT / SVELTE / TAILWINDCSS 
