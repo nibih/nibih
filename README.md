@@ -1,4 +1,6 @@
 # Hi there👋, I'm Nibih
+![carbon](https://user-images.githubusercontent.com/42928462/177679687-aa4e653e-c173-4e57-860e-f8046436e0cb.png)
+
 ![Profile views](https://gpvc.arturio.dev/nibih)  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nibih)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/realnibih)
