@@ -1,9 +1,15 @@
-# Hi there👋, I'm Nibih
-
-
-![Profile views](https://gpvc.arturio.dev/nibih)  
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/42928462/179460106-5874ebbb-f12e-4ab2-85f4-dae5ac820650.png" width="100"/>
+  
+  # Hi there👋, I'm Nibih
+  ![Profile views](https://gpvc.arturio.dev/nibih)  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nibih)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/realnibih)
+</div>
+
+
+
+
 ## Data Scientist & Front End developer
 I'm a developer with a strong interest in Intelligent Systems and Front-end web development. I like keeping up with new and exciting technologies to further enhance my capabilities. I have a focus on application performance and accessibility.
 
