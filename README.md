@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/42928462/179460106-5874ebbb-f12e-4ab2-85f4-dae5ac820650.png" width="100"/>
   
+  ![image](https://user-images.githubusercontent.com/42928462/181178256-161a8b6f-0f3c-46e8-9489-5bd2b418107a.png)
+
   # Hi there👋, I'm Nibih
   ![Profile views](https://gpvc.arturio.dev/nibih)  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nibih)
