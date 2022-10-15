@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  ![image](https://user-images.githubusercontent.com/42928462/181178256-161a8b6f-0f3c-46e8-9489-5bd2b418107a.png)
+[![@nibih's Holopin board](https://holopin.me/nibih)](https://holopin.io/@nibih)
 
   # Hi there👋, I'm Nibih
   ![Profile views](https://gpvc.arturio.dev/nibih)  
